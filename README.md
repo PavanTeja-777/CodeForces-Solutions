@@ -1,6 +1,6 @@
 # 🚀 Codeforces Journey
 
-Welcome to my Codeforces repository!
+Welcome to my Codeforces Journey repository!
 
 This repository contains my daily problem-solving practice, contest solutions, and occasional notes on the intuition, observations, and approaches used to solve problems.
 
