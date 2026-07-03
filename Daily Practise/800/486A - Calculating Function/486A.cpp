@@ -2,16 +2,10 @@
 using namespace std;
 
 int main() {
-    int n;
+    long long n;
     cin >> n;
-	int res=0;
-	bool minus=n%2==1;
-	while(n){
-		if(minus) res -= n;
-		else res += n;
-		minus = !minus;
-		n--;
-	}
-	cout << res;
+
+    if (n % 2 == 0) cout << n / 2;
+    else cout << -(n + 1) / 2;
     return 0;
 }
