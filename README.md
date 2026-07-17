@@ -2,7 +2,7 @@
 
 Welcome to my Codeforces Journey repository!
 
-This repository contains my daily problem-solving practice, contest solutions, and occasional notes on the intuition, observations, and approaches used to solve problems.
+This repository contains my daily problem-solving practice, contest solutions, and occasional notes on the intuition, observations, and approaches used to solve a problems.
 
 ## 🎯 Goals
 
