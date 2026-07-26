@@ -52,7 +52,7 @@ For selected problems, I may include:
 - Thought process
 - Key insights
 - Alternative approaches
-- Common mistakes
+<!-- - Common mistakes -->
 
 ---
 
