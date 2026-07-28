@@ -6,11 +6,11 @@ This repository contains my daily problem-solving practice, contest solutions, a
 
 ## 🎯 Goals
 
-- Improve problem-solving skills
-- Strengthen Data Structures & Algorithms knowledge
-- Prepare for Competitive Programming contests
-- Track consistency and progress over time
-- Build a collection of well-organized solutions
+- Improve problem-solving skills.
+- Strengthen Data Structures & Algorithms knowledge.
+- Prepare for Competitive Programming contests.
+- Track consistency and progress over time.
+- Build a collection of well-organized solutions.
 
 ---
 
