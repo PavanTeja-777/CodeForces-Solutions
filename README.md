@@ -1,16 +1,16 @@
 # 🚀 Codeforces Journey
 
-Welcome to my Codeforces Journey repository
+Welcome to my Codeforces Journey repository!
 
 This repository contains my daily problem-solving practice, contest solutions, and occasional notes on the intuition, observations, and approaches used to solve problems.
 
 ## 🎯 Goals
 
-- Improve problem-solving skills.
-- Strengthen Data Structures & Algorithms knowledge.
-- Prepare for Competitive Programming contests.
-- Track consistency and progress over time.
-- Build a collection of well-organized solutions.
+- Improve problem-solving skills
+- Strengthen Data Structures & Algorithms knowledge
+- Prepare for Competitive Programming contests
+- Track consistency and progress over time
+- Build a collection of well-organized solutions
 
 ---
 
