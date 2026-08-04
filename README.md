@@ -1,4 +1,4 @@
-# 🚀 Codeforces Journey
+# 🚀  Codeforces Journey
 
 Welcome to my Codeforces Journey repository!
 
